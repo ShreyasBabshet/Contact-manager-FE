@@ -1,0 +1,20 @@
+.FormContainer {
+  display: flex;
+  height: 30rem;
+  flex-direction: column;
+}
+.Field {
+  margin: 2rem 1rem;
+}
+.Button {
+  padding: 0.5rem 1rem;
+  background-color: skyblue;
+  border-radius: 0.5rem;
+  box-shadow: 2px 2px gray;
+  margin: 1rem;
+  margin-left: 4.5rem;
+  cursor: pointer;
+}
+.Label {
+  margin-right: 0.5rem;
+}
